@@ -1,0 +1,57 @@
+div.background {
+  background: url(klematis.jpg) repeat;
+  border: -1px solid black;
+  background-color:black;
+  width:220px;
+  height:160px;
+  float:right;
+}
+
+/*div.transbox {*/
+/*  margin: 30px;*/
+/*  background-color: #ffffff;*/
+/*  border: 1px solid black;*/
+/*  opacity: 0.6;*/
+  /*filter: alpha(opacity=60); For IE8 and earlier */
+/*}*/
+
+div.transbox p {
+  margin: 2px;
+  font-weight: bold;
+  color: white;
+}
+
+div.background2 {
+  background: url(klematis.jpg) repeat;
+  border: 1px solid black;
+  background-color:black;
+  width:350px;
+  height:250px;
+  float:left;
+}
+
+div.background3 {
+  background: url(klematis.jpg) repeat;
+  border: 10px solid black;
+  background-color:black;
+  width:180px;
+  height:250px;
+  float:right;
+}
+
+div.background4 {
+  background: url(klematis.jpg) repeat;
+  border: 10px solid black;
+  background-color:black;
+  width:200px;
+  height:400px;
+  float:right;
+}
+
+
+h3 {
+  text-align: left;
+}
+h4 {
+  text-align: left;
+}
